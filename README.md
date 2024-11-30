@@ -24,11 +24,17 @@ L'application contient plusieurs fonctionnalités interactives permettant aux ut
 ### 📁 Structure du projet
 
 Le projet est organisé comme suit :
+
  ├── app.py # Point d'entrée principal 
+ 
  ├── layout.py # Définit le layout (structure visuelle) 
+ 
  ├── callbacks.py # Gestion des interactions (callbacks) 
+ 
  ├── requirements.txt # Liste des dépendances 
+ 
  ├── assets/ # Contient les fichiers CSS (styles personnalisés) │ └── style.css # Exemple de fichier CSS 
+ 
  └── README.md # Documentation du projet
 
 ### 🛠️ Technologies utilisées
@@ -41,16 +47,15 @@ Le projet est organisé comme suit :
 ### 🚀 Installation
 
 1. Clonez ce dépôt GitHub :
-   ```bash
-   git clone https://github.com/Housseem946/Dash-Application.git
-   ```
-
+   
+```bash
+git clone https://github.com/Housseem946/Dash-Application.git
+```
 2. Installez les dépendances :
 
  ```bash
 pip install -r requirements.txt
  ```
-
 3. Lancez l'application :
 
  ```bash
@@ -84,3 +89,7 @@ Un fichier CSS pour styliser l'application (personnalisation simple).
 ![image](https://github.com/user-attachments/assets/d70b62bb-cfd2-4250-9747-36a592d6fc23)
 
 ### 🛡️ Contribuer
+
+Je vous invite à contribuer à ce projet pour l'améliorer et y ajouter de nouvelles fonctionnalités. Si vous avez des idées ou des suggestions, n'hésitez pas à soumettre vos propositions. 
+
+Pour en savoir plus sur Dash et ses possibilités, la documentation officielle est une excellente ressource : [Documentation Dash](https://dash.plotly.com/).
