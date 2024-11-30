@@ -1,6 +1,6 @@
 # Dash-Application
-Cette application Dash est un projet démonstratif conçu pour explorer les fonctionnalités clés de le framework Dash. Elle permet de visualiser des graphiques interactifs, d'afficher des tables, et de tester des interactions dynamiques avec des callbacks.
 
+Cette application Dash est un projet démonstratif conçu pour explorer les fonctionnalités clés de le framework Dash. Elle permet de visualiser des graphiques interactifs, d'afficher des tables, et de tester des interactions dynamiques avec des callbacks.
 
 L'application contient plusieurs fonctionnalités interactives permettant aux utilisateurs de :
 
@@ -16,9 +16,10 @@ L'application contient plusieurs fonctionnalités interactives permettant aux ut
 3. **Sélectionner des options via un menu déroulant** :
    - Les utilisateurs peuvent choisir une option dans un dropdown et voir un graphique mis à jour en temps réel.
 
-4. **Afficher une table ou d'autres composants dynamiques** :
-   - Exemple de logique pour afficher du contenu en fonction des interactions.
-  
+4. **Visualiser les callbacks et les performances** :
+   - L'application Dash permet d'explorer un outil intégré de visualisation des callbacks, où l'on peut inspecter les interactions entre les composants (inputs/outputs), mesurer les temps d'exécution, et identifier les 
+     erreurs éventuelles.
+   - Cette fonctionnalité est accessible via les boutons en bas de la page, comme "Callbacks", "Errors", et "Server".
 
 ### 📁 Structure du projet
 
