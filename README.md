@@ -20,10 +20,15 @@ L'application contient plusieurs fonctionnalités interactives permettant aux ut
    - Exemple de logique pour afficher du contenu en fonction des interactions.
   
 
-  ## 📁 Structure du projet
+### 📁 Structure du projet
 
 Le projet est organisé comme suit :
-my_dash_app/ │ ├── app.py # Point d'entrée principal ├── layout.py # Définit le layout (structure visuelle) ├── callbacks.py # Gestion des interactions (callbacks) ├── requirements.txt # Liste des dépendances ├── assets/ # Contient les fichiers CSS (styles personnalisés) │ └── style.css # Exemple de fichier CSS └── README.md # Documentation du projet
+ ├── app.py # Point d'entrée principal 
+ ├── layout.py # Définit le layout (structure visuelle) 
+ ├── callbacks.py # Gestion des interactions (callbacks) 
+ ├── requirements.txt # Liste des dépendances 
+ ├── assets/ # Contient les fichiers CSS (styles personnalisés) │ └── style.css # Exemple de fichier CSS 
+ └── README.md # Documentation du projet
 
 ### 🛠️ Technologies utilisées
 
@@ -36,7 +41,7 @@ my_dash_app/ │ ├── app.py # Point d'entrée principal ├── layout.p
 
 1. Clonez ce dépôt GitHub :
    ```bash
-   git clone [https://github.com/votre-utilisateur/my-dash-app.git](https://github.com/Housseem946/Dash-Application)
+   git clone https://github.com/Housseem946/Dash-Application.git
    ```
 
 2. Installez les dépendances :
@@ -52,7 +57,7 @@ python app.py
  ```
 4. Ouvrez un navigateur et accédez à http://127.0.0.1:8050.
 
-###🎨 Fonctionnalités interactives
+### 🎨 Fonctionnalités interactives
 
 #### Graphiques interactifs :
 
