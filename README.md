@@ -92,6 +92,6 @@ Un fichier CSS pour styliser l'application (personnalisation simple).
 
 Je vous invite à contribuer à ce projet pour l'améliorer et y ajouter de nouvelles fonctionnalités. Si vous avez des idées ou des suggestions, n'hésitez pas à soumettre vos propositions. 
 
-### Bonjour 
+### Learn more
 
 Pour en savoir plus sur Dash et ses possibilités, la documentation officielle est une excellente ressource : [Documentation Dash](https://dash.plotly.com/).
